@@ -35,6 +35,11 @@
 ### 5. 更多上分 tips:
 
 - 数据分布:  
+万物之源:  **最重要的是对数据的理解~~**  
+
+图片一览:  
+![glimpse.png](./images/glimpse.png)
+
 横轴为宽,竖轴为高:  
 ![width_height](./images/width_height.png)  
 
