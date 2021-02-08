@@ -16,7 +16,7 @@
 
 
 ### 2. predict：
-- 修改 `inference_model.py` 里的训练参数  
+- 修改 `inference_model.py` 里的预测参数  
 - python inference_model.py   
 
 
